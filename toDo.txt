@@ -1,0 +1,10 @@
+This Api is built for E-commerce website 
+
+[ ] Register a user
+[ ] Login a user
+[ ] Who I am
+[ ] Add new product 
+[ ] Update a product
+[ ] Get all products
+[ ] Get single product
+[ ] Delete a product
