@@ -1,4 +1,5 @@
 This Api is built for E-commerce website 
+This Project uses Express, NodeJs, MongoDB.
 
 [ ] Register a user
 [ ] Login a user
